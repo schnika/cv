@@ -49,7 +49,17 @@
     "heading": "Professional Experience",
     "items": [
       {
-        "time": "09/2024 – present",
+        "time": "12/2025 – present",
+        "company": "1Komma5° Heartbeat AI GmbH · Hamburg",
+        "title": "Head of Engineering Marketing Tech",
+        "bullets": [
+          "Marketing Automation: leading global rollout of marketing automation tooling → scalable, unified campaigns across markets.",
+          "Consent Management: ownership of consent management systems → GDPR-compliant data processing.",
+          "Web & Lead Funnel: responsible for the website and the entire lead capture & nurturing process."
+        ]
+      },
+      {
+        "time": "09/2024 – 11/2025",
         "company": "1Komma5° Heartbeat GmbH · Hamburg",
         "title": "Senior Software Engineer",
         "bullets": [
